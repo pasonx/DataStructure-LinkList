@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <linux.h>
+
 
 #define MAXSIZE 32
 
